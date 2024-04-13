@@ -1,0 +1,25 @@
+#root{
+    width: 100vw;
+    height: 100vh;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'Poppins', 'sans-serif';
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(30,30,30);
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;  
+}
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}

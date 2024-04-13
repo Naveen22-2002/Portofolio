@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6021993d.css",
+    "main.js": "/portfolio/static/js/main.64a4d127.js",
+    "static/media/My_pic.png": "/portfolio/static/media/My_pic.6818642605e2525ee4cc.png",
+    "static/media/Textutils.png": "/portfolio/static/media/Textutils.770f2ac7e804e6b713c3.png",
+    "static/media/Newshub.png": "/portfolio/static/media/Newshub.e366892d29397d059258.png",
+    "static/media/EdeNaveenResume.png": "/portfolio/static/media/EdeNaveenResume.94037186f20de3ba155d.png",
+    "static/media/web-development.jpg": "/portfolio/static/media/web-development.c0323ba7dee2ae7f5cc7.jpg",
+    "static/media/Emart.png": "/portfolio/static/media/Emart.9f1f4aa07690d8eaab33.png",
+    "static/media/work.png": "/portfolio/static/media/work.cfc52497aac997def6f8.png",
+    "static/media/coding.avif": "/portfolio/static/media/coding.4fed2f8189305e08d621.avif",
+    "static/media/e-mail.jpg": "/portfolio/static/media/e-mail.4eecbcddb289ccdeef0b.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.6021993d.css.map": "/portfolio/static/css/main.6021993d.css.map",
+    "main.64a4d127.js.map": "/portfolio/static/js/main.64a4d127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6021993d.css",
+    "static/js/main.64a4d127.js"
+  ]
+}
